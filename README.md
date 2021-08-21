@@ -1,4 +1,6 @@
-![Gif](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Olajire Simon</h1>
 <h3 align="center">Aspiring Software Engineer(Backend) and EEE Engineer.</h3>
 
