@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Olajire Simon</h1>
-<h3 align="center">Aspiring Software Engineer(Backend) and EEE Engineer.</h3>
+<h3 align="center">Aspiring Software(Backend) & Hardware Engineer and EEE Engineer.</h3>
 
 - 🔭 I’m currently working on **getting equipped with software engineering tools**
 
